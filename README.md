@@ -1,15 +1,15 @@
 # caidao-20160620-www.maicaidao.com
 caidao-20160620-www.maicaidao.com
 
-解压密码:www.maicaidao.com
+#解压密码:www.maicaidao.com
 
-压缩包caidao-20160620-www.maicaidao.com.zip:
+#压缩包caidao-20160620-www.maicaidao.com.zip:
 
 MD5: 75F9C0EA9CE2BA266560FE3364127AE3
 
 SHA1: 3C87E017E3CF77C06827C587E43F902E6AF7B6B8
 
-caidao.exe： 
+#caidao.exe： 
 
 MD5:AC86066FFD58779F4C0DB5030574B0CB
 
